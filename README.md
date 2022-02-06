@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there! 👋 
 
-<!--
-**jopms/jopms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👇 Whoami 
+My name is **João Santos** and I'm a Frontend developer currently based in Portugal. 
+I am a fast-learner and hardworking team player, who is passionate about working independently and learning new technologies.
+I've been working in a full remote mode for over a year now, and I'm currently looking for a new challenge outside my country.
 
-Here are some ideas to get you started:
+## 👨‍💻 Skills 
+Daily working in a React application with Hooks, Redux, Sagas, SASS, Axios and some other technologies. 
+Currently learning more about Nodejs, Express, Mongoose and Apollo Graphql.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's have a chat ?
+Reach me out through [my email](mailto:joao.34@hotmail.com) so we can schedule a chat 😀
