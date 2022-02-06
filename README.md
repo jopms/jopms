@@ -7,7 +7,7 @@ I've been working in a full remote mode for over a year now, and I'm currently l
 
 ## 👨‍💻 Skills 
 Daily working in a React application with Hooks, Redux, Sagas, SASS, Axios and some other technologies. 
-Currently learning more about Nodejs, Express, Mongoose and Apollo Graphql.  
+Currently learning more about Nodejs, Express, Mongoose and Apollo Graphql. Check my latest project: [The market](https://grocery-jopms.netlify.app/).
 
 ## 📫 Let's have a chat ?
 Reach me out through [my email](mailto:joao.34@hotmail.com) so we can schedule a chat 😀
