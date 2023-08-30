@@ -6,7 +6,7 @@ I am a fast-learner and hardworking team player, who is passionate about working
 
 ## 👨‍💻 Skills 
 Daily working in a Vue application. 
-Currently learning more about Nodejs, Express, Mongoose and Apollo Graphql. Check my latest project: [The market](https://grocery-jopms.netlify.app/).
+Currently learning more about Nodejs, Express, Mongoose and Apollo Graphql.
 
 ## 📫 Let's have a chat ?
 Reach me out through [my email](mailto:joao.34@hotmail.com) so we can schedule a chat 😀
